@@ -7,7 +7,7 @@
 ## Installation
 
 ```
-npm install react-admin-date-inputs --save
+npm install react-admin-date-picker --save
 ```
 
 ## Usage
