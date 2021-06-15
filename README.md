@@ -27,7 +27,7 @@ import {
     TabbedForm,
     FormTab,
 } from 'react-admin'
-import { DateInput, TimeInput, DateTimeInput } from 'react-admin-date-inputs';
+import { DateInput, TimeInput, DateTimeInput } from 'react-admin-date-picker';
 
 export const NewsEdit = (props) => (
   <Edit title={<NewsTitle />} {...props}>
@@ -74,4 +74,4 @@ npm run build
 
 ## License
 
-This library is licensed under the [MIT Licence](https://github.com/vascofg/react-admin-date-inputs/blob/master/LICENSE).
+This library is licensed under the [MIT Licence](https://github.com/fyzhu/react-admin-date-picker/blob/master/LICENSE).
